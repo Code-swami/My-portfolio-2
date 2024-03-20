@@ -1,0 +1,57 @@
+export default [
+  {
+    _createdAt: "2022-11-17T07:40:11Z",
+    _id: "b0e70f9d-60bc-4ef7-8fd3-a183255059e3",
+    _rev: "ljxKvzo6Ft3JJjdVmA0hRl",
+    _type: "experience",
+    _updatedAt: "2022-11-17T07:40:11Z",
+    company: "Viseven India Pvt. Ltd. - Jaipur, India",
+    dateStarted: "2022-10-17",
+    dateEnded: "10-01-2024",
+    isCurrentlyWorkingHere: false,
+    jobTitle: "CONTENT-DEVELOPER",
+    points: [
+      "Designing web-pages and E-mails on client's CMS (E-wizard).",
+      "Write efficient and maintainable in HTML/CSS/JavaScript/Vue.js/React.js.",
+      "Testing web-pages on client's tools (EmailOnEcid, Salesforce) for bugs and correction.",
+      "Testing web-pages on client's tools (EmailOnEcid, Salesforce) for bugs and correction.",
+      "Collaborating with other members of Creative/QA/Deployment to successfully deliver projects to the client on JIRA.",
+
+    ],
+  },
+
+  {
+    _createdAt: "2022-11-17T07:33:10Z",
+    _id: "c5e27593-dff2-4e86-92d5-205f00a591ce",
+    _rev: "qKicPX1LyXW8uXZ46TdaiQ",
+    _type: "experience",
+    _updatedAt: "2022-11-17T07:33:10Z",
+    company: "Adaan Digital Solutions Pvt. Ltd. - Delhi, India",
+    dateStarted: "2021-08-01",
+    dateEnded: "01-02-2022",
+    isCurrentlyWorkingHere: true,
+    jobTitle: "WEB-DESIGNER",
+    points: [
+      "Designing PSD to HTML using(HTML5 , CSS3, BOOTSTRAP4,and JAVASCRIPT).",
+      "Templates design on CMS tools (Wix , Wordpress, Duda) and migrating websites.",
+      "Implementing SEO for Web-pages.",
+      "Collaborating with other members of QA,deployment for bug correction to successfully deliver projects to the Clients.",
+    ],
+  },
+  {
+    _createdAt: "2022-11-17T07:00:07Z",
+    _id: "81df44d4-c0c7-46f3-9e1f-0c14a8f46f1d",
+    _rev: "ljxKvzo6Ft3JJjdVm9wjeI",
+    _type: "experience",
+    _updatedAt: "2022-11-17T07:26:32Z",
+    company: "Liveup Solutions Pvt. Ltd. - Banglore, India",
+    dateStarted: "2019-02-01",
+    dateEnded: "01-08-2019",
+    jobTitle: "WEB-DEVELOPER(TRAINEE)",
+    points: [
+      "Responsive websites and pages design.",
+      "Handling SEO and managing company’s websites.",
+      "Worked on Canva, Premiere Pro and Photoshop to create digital content.",
+    ],
+  },
+];
